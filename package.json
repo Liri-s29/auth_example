@@ -13,8 +13,8 @@
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
+    "md5": "^2.3.0",
     "mongoose": "^5.12.11",
-    "mongoose-encrypt": "0.0.1-alpha.3",
     "mongoose-encryption": "^2.1.0"
   }
 }
